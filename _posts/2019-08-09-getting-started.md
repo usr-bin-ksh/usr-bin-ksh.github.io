@@ -8,7 +8,7 @@ pin: true
 img_path: '/posts/20180809'
 ---
 
-## Prerequisites
+<!-- ## Prerequisites
 
 Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installation of the basic environment. [Git](https://git-scm.com/) also needs to be installed.
 
@@ -151,4 +151,4 @@ Unless you specified the output path, the generated site files will be placed in
 [nodejs]: https://nodejs.org/
 [starter]: https://github.com/cotes2020/chirpy-starter
 [pages-workflow-src]: https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-with-a-custom-github-actions-workflow
-[latest-tag]: https://github.com/cotes2020/jekyll-theme-chirpy/tags
+[latest-tag]: https://github.com/cotes2020/jekyll-theme-chirpy/tags -->

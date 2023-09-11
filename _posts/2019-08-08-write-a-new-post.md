@@ -6,7 +6,7 @@ categories: [Blogging, Tutorial]
 tags: [writing]
 render_with_liquid: false
 ---
-
+<!-- 
 This tutorial will guide you how to write a post in the _Chirpy_ template, and it's worth reading even if you've used Jekyll before, as many features require specific variables to be set.
 
 ## Naming and Path
@@ -409,4 +409,4 @@ The following table shows how to get the two parameters we need in a given video
 
 ## Learn More
 
-For more knowledge about Jekyll posts, visit the [Jekyll Docs: Posts](https://jekyllrb.com/docs/posts/).
+For more knowledge about Jekyll posts, visit the [Jekyll Docs: Posts](https://jekyllrb.com/docs/posts/). -->
