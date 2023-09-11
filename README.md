@@ -100,3 +100,10 @@ This work is published under [MIT License][license].
 #https://jjikin.com/posts/Jekyll-Chirpy-%ED%85%8C%EB%A7%88%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-Github-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0(2023-6%EC%9B%94-%EA%B8%B0%EC%A4%80)/
 #https://www.irgroup.org/posts/jekyll-chirpy/
 
+#https://wlqmffl0102.github.io/posts/Making-Git-blogs-for-beginners-1/
+
+#https://jjikin.com/categories/
+#https://jinozblog.tistory.com/126
+#https://jinozpersona.github.io/
+#https://pioneergu.github.io/categories/github-blog/
+#https://www.irgroup.org/posts/Chirpy-%ED%85%8C%EB%A7%88-%EC%BB%A4%EC%8A%A4%ED%84%B0%EB%A7%88%EC%9D%B4%EC%A7%95/
