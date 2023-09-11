@@ -21,7 +21,7 @@
 
 - type: linkedin
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-  url:  'kedin.com/in/sunghyuck-kim-81580a202/'                  # Fill with your Linkedin homepage
+  url:  'https://www.linkedin.com/in/sunghyuck-kim-81580a202/'                  # Fill with your Linkedin homepage
 #
 - type: instagram
   icon: "fa-brands fa-instagram"
