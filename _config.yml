@@ -18,15 +18,15 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Usr/bin/ksh # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: 반복해서 찾아보기 귀찮아 기록합니다. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ""
+url: "https://usr-bin-ksh.github.io"
 
 github:
   username: usr-bin-ksh # change to your github username
@@ -38,7 +38,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: cedric
-  email: kyf1992@domain.com # change to your email address
+  email: kyf1992@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your twitter homepage
